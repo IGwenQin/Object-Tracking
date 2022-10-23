@@ -3,9 +3,17 @@ This is the summer camp project for [Appearance Inspection Algorithm Contest 202
 
 ## Task Summary
 - Detect, track and count swimming fishes in the water. 
-- rendering options (resolution of images and output path)
-- preservation cylinder objects and camera arrangement objects as assets
-
+## Object
+- Swimming fish in the tank.
+## Grade Items
+- Accuracy and processing time of counting fish
+## Program Overview
+-There are five types of fish.
+1. Fish number 1: Medaka
+2. Fish number 2: Kingfish (black)
+3. Fish number 3: Small gold (red)
+4. Fish number 4: Small gold (black)
+5. Fish number 5: Eyeball
 
 # Installation
 Clone this project and open with Unity.
