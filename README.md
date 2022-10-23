@@ -1,8 +1,8 @@
 # Summer Camp 2022
 This is the summer camp project for [Appearance Inspection Algorithm Contest 2022](http://alcon.itlab.org/detail/).
 
-## Features
-- parameters for generation of cylinder and camera arrangement
+## Task Summary
+- Detect, track and count swimming fishes in the water. 
 - rendering options (resolution of images and output path)
 - preservation cylinder objects and camera arrangement objects as assets
 
