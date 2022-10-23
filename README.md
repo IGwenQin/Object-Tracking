@@ -1,5 +1,5 @@
-# Drill Simulator
-Application for shooting images of the inside of cylinder for structure form motion.
+# Summer Camp 2022
+This is the summer camp project for [Appearance Inspection Algorithm Contest 2022](http://alcon.itlab.org/detail/).
 
 ## Features
 - parameters for generation of cylinder and camera arrangement
