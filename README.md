@@ -22,7 +22,7 @@ First, detect the fish, then track, and finally classify them all.
 ![](image/3.jpg)
      <p>
      Add bubbles and seaweed to the images. 
-  ![](image/5.jpg)
+     ![](image/5.jpg)
  - For increasing numbers of images   
      Download images from Google and change the color of the fish.
 ![](image/4.jpg)     
