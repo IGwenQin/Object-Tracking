@@ -2,10 +2,10 @@
 This is the summer camp project for [Appearance Inspection Algorithm Contest 2022](http://alcon.itlab.org/detail/).
 
 ## Task Summary
-1. Overview: Detect, track and count swimming fishes in the water
-2. Object: Swimming fish in the tank
+1. Objective: Detect, track and count swimming fishes in the water
+2. Target: Swimming fish in the tank
 3. Grade Items: Accuracy and processing time of counting fish
--Note: There are five types of fish. They are Medaka, Kingfish (black), Small gold (red), Small gold (black) and Eyeball.
+   Note: There are five types of fish. They are Medaka, Kingfish (black), Small gold (red), Small gold (black) and Eyeball.
 
 
 # Installation
